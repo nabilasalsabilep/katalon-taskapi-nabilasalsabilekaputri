@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetListOfBooks</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b854e55-2f0a-40a5-ba26-3c5cc1a54b90</testCaseGuid>
+</TestCaseEntity>

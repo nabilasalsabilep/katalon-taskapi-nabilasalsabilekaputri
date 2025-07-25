@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetListOfCarts</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27124c3b-8aad-4ee9-b688-1d6e1bb7c8fa</testCaseGuid>
+</TestCaseEntity>
